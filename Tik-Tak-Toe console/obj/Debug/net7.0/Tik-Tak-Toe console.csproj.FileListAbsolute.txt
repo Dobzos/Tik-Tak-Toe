@@ -1,0 +1,14 @@
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\bin\Debug\net7.0\Tik-Tak-Toe console.exe
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\bin\Debug\net7.0\Tik-Tak-Toe console.deps.json
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\bin\Debug\net7.0\Tik-Tak-Toe console.runtimeconfig.json
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\bin\Debug\net7.0\Tik-Tak-Toe console.dll
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\bin\Debug\net7.0\Tik-Tak-Toe console.pdb
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\obj\Debug\net7.0\Tik-Tak-Toe console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\obj\Debug\net7.0\Tik-Tak-Toe console.AssemblyInfoInputs.cache
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\obj\Debug\net7.0\Tik-Tak-Toe console.AssemblyInfo.cs
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\obj\Debug\net7.0\Tik-Tak-Toe console.csproj.CoreCompileInputs.cache
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\obj\Debug\net7.0\Tik-Tak-Toe console.dll
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\obj\Debug\net7.0\refint\Tik-Tak-Toe console.dll
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\obj\Debug\net7.0\Tik-Tak-Toe console.pdb
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\obj\Debug\net7.0\Tik-Tak-Toe console.genruntimeconfig.cache
+D:\Egyetem\Felev1\C#\Tik-Tak-Toe console\obj\Debug\net7.0\ref\Tik-Tak-Toe console.dll
